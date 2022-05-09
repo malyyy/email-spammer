@@ -2,7 +2,7 @@
 
 ## Built With
 
-* **Python 3.10.4 ** - [https://www.python.org/](https://www.python.org/)
+* **Python 3.10.4** - [https://www.python.org/](https://www.python.org/)
 
 #### Disclaimer
 >This tool is onlt for testing and education purposes.
